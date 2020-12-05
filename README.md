@@ -4,13 +4,13 @@ Example of a Spring Boot application that executes asynchronous background opera
 ## Build Instructions:
 ### Perform a Maven installation:
 
-1. If you have Maven accessible from the command line, just run the following command from the root directory of tye project:
+1. If you have Maven accessible from the command line, just run the following command from the `/spring-boot-async-sample` subdirectory of the project:
 ```
 mvn clean install
 ```
 
 2. From STS or similar, select "_Run As..._" -> "Maven install".  
-   The **.jar** archive will be installed in the `target` directory of the project.
+   The **.jar** archive will be installed in the `target` directory of the Spring project.
 
 ## How to run:
 Navigate to the location of the directory a run the following command:
